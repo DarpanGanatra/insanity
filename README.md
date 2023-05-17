@@ -18,7 +18,7 @@ Table of Contents
 ### Notebooks
 #### Methods
 These will be shown in the context of a model. For example, feature engineering will be shown in the context of a linear regression model. This is to show how the methods are used in the real world. I will most likely use libraries like Optuna and Shap to add some depth to the methods, since 99% of the time, you will be using libraries to do the heavy lifting.
-- :x: [Hyperparameter Tuning](ML/Hyperparameter_Tuning.ipynb)
+- :hourglass: [Hyperparameter Tuning](ML/Hyperparameter_Tuning.ipynb)
 - :x: [Feature Engineering](ML/Feature_Engineering.ipynb)
 - :x: [Feature Selection](ML/Feature_Selection.ipynb)
 - :x: [Cross Validation](ML/Cross_Validation.ipynb)
@@ -32,7 +32,10 @@ TODO: Determine if these should be created.
 
 #### Models
 Most of these will be very simple implementations of the models. I'm not trying to reinvent the wheel here. I just want to show how to use them in Python.
-- :x: [Linear Regression](ML/Linear_Regression.ipynb)
+
+If you have any questions or suggestions, please open an issue and I'm happy to answer or add it to the list.
+
+- :white_check_mark: [Linear Regression](ML/Linear_Regression.ipynb)
 - :x: [Logistic Regression](ML/Logistic_Regression.ipynb)
 - :x: [K-Nearest Neighbors](ML/K_Nearest_Neighbors.ipynb)
 - :x: [Decision Trees](ML/Decision_Trees.ipynb)
